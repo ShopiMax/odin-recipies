@@ -6,13 +6,13 @@ This is where I will be able to practice my HTML skills to start setting up a we
  * use `!`
 2. Set appropriate title in <head>
 3. Use the following things inside <body>
- * <p>
- * <a href>
- * <img src>
- * <em>
- * <strong>
- * <ul>
- * <li>
+ * `<p>`
+ * `<a href>`
+ * `<img src>`
+ * `<em>`
+ * `<strong>`
+ * `<ul>`
+ * `<li>`
  * Absolute links
  * Relatiev links
 
